@@ -5,4 +5,6 @@ fun main(){
     println("Tu nuevo nombre es $playerName")
 
     println("Tamaño del nick: ${playerName.length}")
+
+    //DIOSSSS
 }

@@ -30,4 +30,6 @@ fun main(){
             println("Carácter siguiente: No existe (es la última posición)")
         }
     }
+
+    //QUE ES ESTO
 }
