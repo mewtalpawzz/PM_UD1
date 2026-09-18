@@ -1,4 +1,4 @@
-package teoria.elementos_basicos
+package teoria.practicas
 
 fun main(){
     print("Ponle un nombre a tu personaje:")

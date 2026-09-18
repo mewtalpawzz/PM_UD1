@@ -1,4 +1,4 @@
-package teoria.elementos_basicos
+package teoria.practicas
 
 fun main(){
     var xPos: Int = 1
